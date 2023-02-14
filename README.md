@@ -2,8 +2,11 @@
 
 Alley Hernandez
 
+###
+
 About
-🎓 Fourth year Information Systems and Decision Sciences at California State University, Fullerton
+###
+🎓 Fourth year Information Systems and Decision Sciences at Cal State Fullerton
 ⚡️ Currently working on personal projects
 
 <!--
