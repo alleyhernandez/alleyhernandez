@@ -2,10 +2,9 @@
 
 Alley Hernandez
 
-###
+> Full-time student
 
 About
-###
 🎓 Fourth year Information Systems and Decision Sciences at Cal State Fullerton
 ⚡️ Currently working on personal projects
 
