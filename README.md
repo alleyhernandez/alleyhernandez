@@ -1,7 +1,7 @@
 ### Hey, Alley Hernandez here! :wave:
 
-[![Alley's GitHub stats](https://github-readme-stats.vercel.app/api?username=alleyhernandez)](https://github.com/alleyhernandez/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleyhernandez&hide_progress=true)
 ###
 About
 ###
