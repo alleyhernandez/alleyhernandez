@@ -1,6 +1,6 @@
 ### Hey, Alley Hernandez here! :wave:
 
-<img align="right" width="40%" src="https://github-readme-stats-alleyhernandez.vercel.app/api/top-langs/?username=alleyhernandez&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=calm&hide_border=true">
+[![Alley's GitHub stats](https://github-readme-stats.vercel.app/api?username=alleyhernandez)](https://github.com/alleyhernandez/github-readme-stats)
 
 ###
 About
