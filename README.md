@@ -1,7 +1,5 @@
 ### Hey, Alley Hernandez here! :wave:
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleyhernandez&hide_progress=true)
 ###
 About
 ###
@@ -14,6 +12,9 @@ About
 -💭 Feel free to connect with me on LinkedIn at: [Alley (Alejandra) Hernandez](https://www.linkedin.com/in/alleyhernandez/)
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleyhernandez&hide_progress=true)
+
+###
 ---
 
 
