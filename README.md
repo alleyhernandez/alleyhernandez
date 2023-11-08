@@ -9,8 +9,10 @@ About
 ###
 -⚡️ Currently working on personal projects
 ###
--💭 Feel free to connect with me on LinkedIn at: [Alley (Alejandra) Hernandez] (https://www.linkedin.com/in/alleyhernandez/)
----
+-💭 Feel free to connect with me on LinkedIn at: [Alley (Alejandra) Hernandez](https://www.linkedin.com/in/alleyhernandez/)
+###
+
+
 <!--
 **alleyhernandez/alleyhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
