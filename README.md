@@ -11,6 +11,7 @@
 - 💭 Feel free to connect with me on LinkedIn at: [Alley (Alejandra) Hernandez](https://www.linkedin.com/in/alleyhernandez/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleyhernandez&layout=donut)](https://github.com/alleyhernandez/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyhernandez&hide=javascript,html)
 
 
 ---
