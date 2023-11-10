@@ -1,4 +1,5 @@
 ### Hey, Alley Hernandez here! :wave:
+<img align="right" width="40%" src="https://github-readme-stats-alleyhernandez.vercel.app/api/top-langs/?username=alleyhernandez&exclude_repo=notes&layout=compact&hide=cmake,shell,makefile&langs_count=8&theme=calm&hide_border=true">
 
 ## About
 
@@ -11,9 +12,7 @@
 - 💭 Feel free to connect with me on LinkedIn at: [Alley (Alejandra) Hernandez](https://www.linkedin.com/in/alleyhernandez/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleyhernandez&hide_progress=true)
 
-###
 ---
 
 
