@@ -2,9 +2,11 @@
 
 ## About
 
-- 🎓 Fifth-year student pursuing a Bachelor of Business Arts in Business Administration with a concentration in Information Systems and Decision Sciences, complemented by a minor in Computer Science at California State University, Fullerton.
+- 🎓 Bachelor of Business Arts in Business Administration with a concentration in Information Systems, complemented by a minor in Computer Science at California State University, Fullerton.
 
 - 🎓 Expanding my education through a Data Science Certificate program at the University of California, Los Angeles.
+
+- 🎓 Expanding my education through self studying for CompTIA certifications
 
 - ⚡️ Currently working on personal projects
 
