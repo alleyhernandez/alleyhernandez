@@ -1,4 +1,4 @@
-### Hey, Alley Hernandez here! :wave:
+### Hi, my name is Alley Hernandez! :wave:
 
 ## About
 
