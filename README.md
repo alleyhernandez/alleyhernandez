@@ -12,7 +12,7 @@
 
 - 💭 Feel free to connect with me on LinkedIn at: [Alley (Alejandra) Hernandez](https://www.linkedin.com/in/alleyhernandez/)
 
-- 💭 Feel free to check my personal site at: [Personal Site](bit.ly/alleyhernandez)
+- 💭 Feel free to check my personal site at: bit.ly/alleyhernandez
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alleyhernandez&layout=donut&hide=javascript,html)](https://github.com/alleyhernandez/github-readme-stats)
 
